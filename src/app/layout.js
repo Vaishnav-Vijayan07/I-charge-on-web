@@ -16,6 +16,9 @@ export const metadata = {
   title: "iChargeon",
   description:
     "Experience lightning-fast charging with our new fast-charging powerbanks.",
+  verification: {
+    google: "t0kdDqFqGX8qjNLkchIG9xyC16A_33Q5hHJnDV9KGdo",
+  },
 };
 
 export default function RootLayout({ children }) {
