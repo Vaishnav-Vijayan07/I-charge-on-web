@@ -40,7 +40,7 @@ export default function RentChargeSection() {
               >
                 <b>
                   Never struggle with a dead device again. Rent an ultra-fast
-                  charging power bank in seconds using the iChargeON app.
+                  charging power bank in seconds using the ichargeON app.
                   Download the app to locate stations, rent chargers, and manage
                   returns.
                 </b>
@@ -48,7 +48,7 @@ export default function RentChargeSection() {
                 <br />
                 Perfect for commuters, travellers, and busy professionals. Stay
                 connected effortlessly, day or night. Charge your whole day with
-                iChargeON.
+                ichargeON.
               </Text>
               <LinkButton
                 href="/about"

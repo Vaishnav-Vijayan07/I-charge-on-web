@@ -29,7 +29,7 @@ export default function OperateSection() {
               Where we operate
             </Heading>
             <Text as="p" size="text1" className="text-justify">
-              iChargeOn stations are located at malls, cafes, transit points,
+              ichargeON stations are located at malls, cafes, transit points,
               and other high-traffic public spaces—making mobile charging
               available wherever you need it most. We’re rapidly expanding to
               serve more cities across the country.

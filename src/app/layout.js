@@ -13,7 +13,7 @@ const baiJamjuree = Bai_Jamjuree({
 });
 
 export const metadata = {
-  title: "iChargeon",
+  title: "ichargeON",
   description:
     "Experience lightning-fast charging with our new fast-charging powerbanks.",
   verification: {

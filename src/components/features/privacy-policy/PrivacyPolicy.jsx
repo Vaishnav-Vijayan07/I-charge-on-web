@@ -89,15 +89,15 @@ export default function PrivacyPolicy() {
               Policies
             </Heading>
             <Text as="p" className="text-[#2d2929]">
-              ICHARGEON ("we", "our", or "us") is committed to protecting your
+              ichargeON ("we", "our", or "us") is committed to protecting your
               privacy. This Privacy Policy explains how we collect, use,
               disclose, and safeguard your information when you use our services
-              through the ICHARGEON app or website.
+              through the ichargeON app or website.
               <br />
               <br />
               The Services constitute a technology platform that enables users
-              of ICHARGEON’s mobile application to locate, rent, and return
-              portable power banks from ICHARGEON charging stations conveniently
+              of ichargeON’s mobile application to locate, rent, and return
+              portable power banks from ichargeON charging stations conveniently
               and securely.
             </Text>
           </div>

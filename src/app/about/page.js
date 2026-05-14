@@ -3,9 +3,9 @@ import InfoSection from "@/components/features/about/InfoSection";
 import OperateSection from "@/components/features/about/OperateSection";
 
 export const metadata = {
-  title: "iChargeOn | About",
+  title: "ichargeON | About",
   description:
-    "Understand how iChargeOn collects.",
+    "Understand how ichargeON collects.",
 };
 
 export default function page() {

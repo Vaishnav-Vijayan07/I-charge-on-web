@@ -45,11 +45,11 @@ export default function InfoSection() {
               </b>
             </p>
             <p>
-              iChargeOn is designed to eliminate that problem with an
+              ichargeON is designed to eliminate that problem with an
               easy-to-use, app-based power bank rental service that keeps you
               powered up wherever you are. With a quick registration, a one-time
               refundable deposit, and flexible rental packages, users can scan a
-              QR code at any iChargeOn station to instantly access a fully
+              QR code at any ichargeON station to instantly access a fully
               charged power bank.
             </p>
           </div>
@@ -107,7 +107,7 @@ export default function InfoSection() {
             high-traffic areas such as shopping malls, cafés, transit hubs, and
             entertainment venues, making it easy to rent and return power banks
             on the go. Whether you're out for a few minutes or a full day,
-            iChargeOn offers a seamless solution to keep your devices charged
+            ichargeON offers a seamless solution to keep your devices charged
             without the need to carry extra equipment. We're here to support
             your mobile lifestyle with convenience, reliability, and
             uninterrupted connectivity.

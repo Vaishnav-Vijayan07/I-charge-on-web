@@ -79,7 +79,7 @@ export default function ContactSection() {
             >
               We’re here to help you stay connected—anytime, anywhere. Whether
               you have a question about our service, need support with a rental,
-              or want to share your feedback, the iChargeOn team is ready to
+              or want to share your feedback, the ichargeON team is ready to
               assist you.
             </Text>
             <div className="flex flex-wrap -mx-[4px] xl:-mx-[6px] 3xl:-mx-[10px] mb-[15px] xl:mb-[20px] 3xl:mb-[40px]">
@@ -111,7 +111,7 @@ export default function ContactSection() {
               </div>
               <div className="w-full p-[4px] xl:p-[6px] 3xl:p-[10px]">
                 <ContactBx image="icon-location.svg" title="address">
-                  Ichargeon, 30/1410, Mooleppadam Road, Vazhakkala, Kakkanad,
+                  ichargeON, 30/1410, Mooleppadam Road, Vazhakkala, Kakkanad,
                   Kochi- 682030
                 </ContactBx>
               </div>

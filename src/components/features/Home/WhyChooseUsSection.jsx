@@ -8,13 +8,13 @@ const specs = [
     image: "img_fi_10018202.svg",
     title: "Fast Charging",
     description:
-      "Stay powered up with iChargeON's high-speed charging system whenever you need it.",
+      "Stay powered up with ichargeON's high-speed charging system whenever you need it.",
   },
   {
     image: "img_fi_10104619.svg",
     title: "Eco-Friendly",
     description:
-      "With every battery swap, iChargeON reduces the unnecessary production of disposable electronic components",
+      "With every battery swap, ichargeON reduces the unnecessary production of disposable electronic components",
   },
   {
     image: "img_vector.svg",

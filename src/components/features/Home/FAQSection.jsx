@@ -1,27 +1,22 @@
 import { Heading } from "@/components/layout/Heading";
 import { Text } from "@/components/layout/Text";
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
 const faqData = [
   {
     title: "How can I rent a power bank?",
     description:
-      "Download the iChargeON app (iOS or Android) to locate a nearby rental station, scan the QR code on the station to pick up a fully charged power bank. When you’re done, return it to any of our stations.",
+      "Download the ichargeON app (iOS or Android) to locate a nearby rental station. Scan the QR code on the station to pick up a fully charged power bank. When you’re done, return it to the same station.",
   },
   {
     title: "Where do I pick up and return power banks?",
     description:
-      "Our iChargeON pick-up and drop-off points are at busy areas—cafés, shopping centers, train stations, airports, and so on. The app displays all available pick-up and drop-off points in real time, allowing you to select the most convenient location.",
+      "Our ichargeON pick-up and drop-off points are at busy areas cafés, shopping centre’s, train stations, airports, and so on. The app displays all available pick-up points in real time, allowing you to select the most convenient location.",
   },
   {
     title: "Do I need to sign a contract or subscription?",
     description:
-      "No long-term commitment is needed. A small deposit will be required, and you only pay for what you use. Sign up with your email, add a payment method, and you're good to rent on the go—no subscription required.",
+      "No long-term commitment is required. A small joining fee applies, and you only pay for what you use. Simply sign up with your email, add a payment method, and you’re ready to rent on the go, no subscription needed.",
   },
   {
     title: "Are the power banks safe to use?",
@@ -48,12 +43,7 @@ export default function FAQSection() {
               Lorem Ipsum is simply dummy text of the printing industry.
             </Text>
           </div>
-          <Accordion
-            type="single"
-            collapsible
-            defaultValue="item-0"
-            className="w-full"
-          >
+          <Accordion type="single" collapsible defaultValue="item-0" className="w-full">
             {faqData.map((item, index) => (
               <AccordionItem
                 key={`faq-${index}`}

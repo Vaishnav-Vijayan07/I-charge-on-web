@@ -41,7 +41,7 @@ export default function HeroSection() {
               className="text-white font-medium w-full max-w-[80%] mb-[20px] xl:mb-[40px] 3xl:mb-[60px]"
             >
               Experience fast-charging freedom on the move. Rent a power bank,
-              charge your device and drop it off at any iChargeON location.
+              charge your device and drop it off at any ichargeON location.
             </Text>
             <div className="flex gap-[4px] 3xl:gap-[6px]">
               <DownloadButton href="#" image="img_group_1000004927.png" />
