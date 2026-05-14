@@ -39,9 +39,9 @@ export default function FAQSection() {
             <Heading size="heading1" as="h2" className="capitalize text-black">
               Frequently Asked Questions
             </Heading>
-            <Text as="p" className="tracking-[0.03em]">
+            {/* <Text as="p" className="tracking-[0.03em]">
               Lorem Ipsum is simply dummy text of the printing industry.
-            </Text>
+            </Text> */}
           </div>
           <Accordion type="single" collapsible defaultValue="item-0" className="w-full">
             {faqData.map((item, index) => (

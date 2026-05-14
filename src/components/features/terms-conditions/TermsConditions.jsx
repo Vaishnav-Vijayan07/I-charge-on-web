@@ -16,7 +16,7 @@ export default function TermsConditions() {
             <h6>1. Account Registration</h6>
             <ul>
               <li>You must be at least 18 years old. </li>
-              <li>You agree to provide accurate, complete, and updated registration information. </li>
+              <li>You agree to provide accurate, complete, and updated registration information.</li>
               <li>You are responsible for maintaining the confidentiality of your account.</li>
             </ul>
             <h6>2. Location Access</h6>
